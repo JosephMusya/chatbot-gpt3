@@ -3,7 +3,7 @@ import openai
 import pyttsx3
 import openai
 
-openai.api_key =  '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'
+openai.api_key =  ''
 start_sequence = "\nAI:"
 restart_sequence = "\nHuman: "
 
